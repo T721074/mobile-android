@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c615eeb-d76b-49e4-8670-b1c4230813ac" name="Changes" comment="PH3-140 fix comment" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/hubertsaludo/.android/avd/Pixel_6_Pro_API_34.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="mobile-android" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Interface" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Saludo Hubert 43752181 &lt;hubert.saludo@ubs.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="PH3-182-implement-error-message" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="PH3-228 Remove article homescree toggle" />
+        <option name="rewordedMessage" value="PH3-228 Remove article homescree toggle" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="onto" value="0f89ae4881d3ef28588ea2b7a472f2539fe9bf07" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2Y6gxzhzf7J5QZMvd34td3UsGtI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DEBUGGABLE_DEVICE&quot;: &quot;Pixel_6_Pro_API_34 [emulator-5554]&quot;,
+    &quot;DEBUGGABLE_PROCESS&quot;: &quot;com.ubs.swidKXJ.android&quot;,
+    &quot;DEBUGGER_ID&quot;: &quot;Auto&quot;,
+    &quot;ResourceManagerPrefKey.ModuleName&quot;: &quot;mobile-android.ubsmobile-app-android.main&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHOW_ALL_PROCESSES&quot;: &quot;false&quot;,
+    &quot;android-custom-view/Users/Shared/mobile-android/ubsmobile-app-android-common-ui-widgets/src/main/java/com/ubs/swidKXJ/mobilebanking/commonwidgets/radiogroup/RadioGroupPlus.kt_SELECTED&quot;: &quot;RadioGroupPlus&quot;,
+    &quot;android-custom-view/Users/Shared/mobile-android/ubsmobile-app-android/src/main/java/com/ubs/swidKXJ/mobilebanking/shared/widget/recyclerview/RecyclerView.kt_SELECTED&quot;: &quot;RecyclerView&quot;,
+    &quot;android-custom-view/Users/Shared/mobile-android/ubsmobile-app-android/src/main/java/com/ubs/swidKXJ/mobilebanking/shared/widget/view/AccountIconView.kt_SELECTED&quot;: &quot;AccountIconView&quot;,
+    &quot;android-custom-view/Users/hubertsaludo/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED&quot;: &quot;RecyclerView&quot;,
+    &quot;android-custom-view/Users/hubertsaludo/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.1/f0f93e67af3f7417bdd560d5142f6dec4fe629c3/recyclerview-1.2.1-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED&quot;: &quot;RecyclerView&quot;,
+    &quot;android-custom-view/Users/hubertsaludo/Library/Android/sdk/sources/android-33/android/view/View.java_SELECTED&quot;: &quot;View&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Shared/mobile-android&quot;,
+    &quot;memory.settings.postsync.last.time.stamp&quot;: &quot;1710217334828&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.ktlint-plugin&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ubsmobile-app-android/src/main/assets" />
+      <recent name="$PROJECT_DIR$/ubsmobile-app-android/src/main/assets/www" />
+      <recent name="$PROJECT_DIR$/ubsmobile-app-android/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/ubsmobile-app-android/src/main/assets/" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.ubs.swidKXJ.mobilebanking.homescreen.domain" />
+      <recent name="com.ubs.swidKXJ.mobilebanking.homescreen.home.domain" />
+      <recent name="com.ubs.swidKXJ.mobilebanking.homescreen.home.util" />
+      <recent name="com.ubs.swidKXJ.mobilebanking.homescreen.util" />
+    </key>
+    <key name="android.template.-1792690994">
+      <recent name="com.ubs.swidKXJ.mobilebanking.homescreen.onboarding.newwidget" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.ubsmobile-app-android">
+    <configuration name="ubsmobile-app-android-ajv-showcase" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="mobile-android.ubsmobile-app-android-ajv-showcase.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ubsmobile-app-android-design-system-showcase" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="mobile-android.ubsmobile-app-android-design-system-showcase.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ubsmobile-app-android" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="true" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="true" />
+      <option name="CLEAR_APP_STORAGE" value="true" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Hybrid>
+      <Java>
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Java>
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+        <option name="ATTACH_ON_WAIT_FOR_DEBUGGER" value="false" />
+        <option name="DEBUG_SANDBOX_SDK" value="false" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FavouritesItemsFactoryTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":ubsmobile-app-android:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.ubs.swidKXJ.mobilebanking.homescreen.home.favourites.FavouritesItemsFactoryTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="FavouritesItemsFactoryTest.check method correctly returns UI layer items for list of account" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":ubsmobile-app-android:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.ubs.swidKXJ.mobilebanking.homescreen.home.favourites.FavouritesItemsFactoryTest.check method correctly returns UI layer items for list of account&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="IsEligibleToHavePillar2Test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":ubsmobile-app-android:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.ubs.swidKXJ.mobilebanking.homescreen.home.favourites.domain.IsEligibleToHavePillar2Test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SetEdocsOnboardingDisplayedTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":ubsmobile-app-android:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.ubs.swidKXJ.mobilebanking.homescreen.domain.SetEdocsOnboardingDisplayedTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ShouldShowHomeScreenFeedbackPromptTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":ubsmobile-app-android:testDebugUnitTest" />
+            <option value="--tests" />
+            <option value="&quot;com.ubs.swidKXJ.mobilebanking.homescreen.domain.ShouldShowHomeScreenFeedbackPromptTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ShouldShowHomeScreenFeedbackPromptTest" />
+        <item itemvalue="Gradle.SetEdocsOnboardingDisplayedTest" />
+        <item itemvalue="Gradle.IsEligibleToHavePillar2Test" />
+        <item itemvalue="Gradle.FavouritesItemsFactoryTest.check method correctly returns UI layer items for list of account" />
+        <item itemvalue="Gradle.FavouritesItemsFactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c615eeb-d76b-49e4-8670-b1c4230813ac" name="Changes" comment="" />
+      <created>1699851693285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699851693285</updated>
+    </task>
+    <task id="LOCAL-00108" summary="MOBDTM-62326 refactor codes">
+      <created>1705396570499</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1705396570500</updated>
+    </task>
+    <task id="LOCAL-00109" summary="MOBDTM-62326 Update edocs category icon">
+      <created>1705411243373</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1705411243373</updated>
+    </task>
+    <task id="LOCAL-00110" summary="MOBDTM-62326 Fix MR comment">
+      <created>1705465626736</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1705465626737</updated>
+    </task>
+    <task id="LOCAL-00111" summary="MOBDTM-62326 Fix MR comment">
+      <created>1705504598685</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1705504598686</updated>
+    </task>
+    <task id="LOCAL-00112" summary="MOBDTM-62326 update unit test">
+      <created>1705550751068</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1705550751068</updated>
+    </task>
+    <task id="LOCAL-00113" summary="MOBDTM-62326 Refactor codes">
+      <created>1705573230740</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1705573230740</updated>
+    </task>
+    <task id="LOCAL-00114" summary="MOBDTM-64504 Fix overlapping text in Portfolio favourites">
+      <created>1705917913917</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1705917913917</updated>
+    </task>
+    <task id="LOCAL-00115" summary="MOBDTM-64504 Fix unit test">
+      <created>1705941442614</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1705941442614</updated>
+    </task>
+    <task id="LOCAL-00116" summary="MOBDTM-64514 Check legal entity to show Ebill information box">
+      <created>1705989997535</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1705989997535</updated>
+    </task>
+    <task id="LOCAL-00117" summary="MOBDTM-64514 Fix commented code reactoring">
+      <created>1706070852224</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1706070852224</updated>
+    </task>
+    <task id="LOCAL-00118" summary="MOBDTM-64319 Implement offering protected prompt">
+      <created>1706099770092</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1706099770093</updated>
+    </task>
+    <task id="LOCAL-00119" summary="MOBDTM-64319 Fix comments">
+      <created>1706191833551</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1706191833551</updated>
+    </task>
+    <task id="LOCAL-00120" summary="MOBDTM-64319 Update">
+      <created>1706223494924</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1706223494924</updated>
+    </task>
+    <task id="LOCAL-00121" summary="MOBDTM-64319 Fix overlapping text">
+      <created>1706223560940</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1706223560940</updated>
+    </task>
+    <task id="LOCAL-00122" summary="MOBDTM-64504 overlapping text in favourites">
+      <created>1706223916882</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1706223916883</updated>
+    </task>
+    <task id="LOCAL-00123" summary="MOBDTM-64319 Fix comments">
+      <created>1706253323709</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1706253323709</updated>
+    </task>
+    <task id="LOCAL-00124" summary="MOBDTM-64504 Fix comment">
+      <created>1706500549904</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1706500549904</updated>
+    </task>
+    <task id="LOCAL-00125" summary="MOBDTM-645319 Fix Comments">
+      <created>1706503760890</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1706503760890</updated>
+    </task>
+    <task id="LOCAL-00126" summary="MOBDTM-645319 Fix Comments">
+      <created>1706507081531</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1706507081531</updated>
+    </task>
+    <task id="LOCAL-00127" summary="MOBDTM-64319 Fix comments">
+      <created>1706507119474</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1706507119474</updated>
+    </task>
+    <task id="LOCAL-00128" summary="MOBDTM-64319 Fix comments">
+      <created>1706512163908</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1706512163908</updated>
+    </task>
+    <task id="LOCAL-00129" summary="MOBDTM-64311 Add white background in Favourite list item">
+      <created>1706534174714</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1706534174714</updated>
+    </task>
+    <task id="LOCAL-00130" summary="MOBDTM-64311 Add white background in Favourite list item">
+      <created>1706535867989</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1706535867989</updated>
+    </task>
+    <task id="LOCAL-00131" summary="MOBDTM-64504 Fix Comments">
+      <created>1706536577519</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1706536577519</updated>
+    </task>
+    <task id="LOCAL-00132" summary="MOBDTM-64319 Fix comments refactor code">
+      <created>1706589053352</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1706589053352</updated>
+    </task>
+    <task id="LOCAL-00133" summary="MOBDTM-64734 Change pen icon to Edit text">
+      <created>1706621654631</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1706621654631</updated>
+    </task>
+    <task id="LOCAL-00134" summary="MOBDTM-64319 fix comments">
+      <created>1706802086154</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1706802086154</updated>
+    </task>
+    <task id="LOCAL-00135" summary="MOBDTM-64315 Fix unit test and error">
+      <created>1706803476588</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1706803476588</updated>
+    </task>
+    <task id="LOCAL-00136" summary="MOBDTM-64313 Move help and edocs onboarding overlay">
+      <created>1706852164441</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1706852164441</updated>
+    </task>
+    <task id="LOCAL-00137" summary="MOBDTM-64920 Update Client name">
+      <created>1706870371191</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1706870371191</updated>
+    </task>
+    <task id="LOCAL-00138" summary="MOBDTM-64920 Update Client name">
+      <created>1706877176216</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1706877176216</updated>
+    </task>
+    <task id="LOCAL-00139" summary="MOBDTM-64920 Update Client name">
+      <created>1706877506402</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1706877506402</updated>
+    </task>
+    <task id="LOCAL-00140" summary="MOBDTM-64313">
+      <created>1707143919446</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1707143919446</updated>
+    </task>
+    <task id="LOCAL-00141" summary="MOBDTM-64313">
+      <created>1707192990705</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1707192990705</updated>
+    </task>
+    <task id="LOCAL-00142" summary="MOBDTM-64313">
+      <created>1707202621675</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1707202621675</updated>
+    </task>
+    <task id="LOCAL-00143" summary="MOBDTM-64313">
+      <created>1707289317763</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1707289317763</updated>
+    </task>
+    <task id="LOCAL-00144" summary="MOBDTM-64313 Unit Test">
+      <created>1707300691113</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1707300691113</updated>
+    </task>
+    <task id="LOCAL-00145" summary="MOBDTM-64313 Unit Test">
+      <created>1707372858986</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1707372858986</updated>
+    </task>
+    <task id="LOCAL-00146" summary="MOBDTM-64313 fix comment">
+      <created>1707716732955</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1707716732956</updated>
+    </task>
+    <task id="LOCAL-00147" summary="MOBDTM-64313 fix comment">
+      <created>1707729066633</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1707729066633</updated>
+    </task>
+    <task id="LOCAL-00148" summary="MOBDTM-64313 fix comment">
+      <created>1707738361226</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1707738361226</updated>
+    </task>
+    <task id="LOCAL-00149" summary="MOBDTM-64319 Rebasing code">
+      <created>1707745092205</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1707745092205</updated>
+    </task>
+    <task id="LOCAL-00150" summary="MOBDTM-64982 Edocs entrypoint in CDM campaign">
+      <created>1707749785578</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1707749785578</updated>
+    </task>
+    <task id="LOCAL-00151" summary="MOBDTM-64313 Rebase">
+      <created>1707814362070</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1707814362071</updated>
+    </task>
+    <task id="LOCAL-00152" summary="MOBDTM-64313 Rebase">
+      <created>1707814714356</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1707814714356</updated>
+    </task>
+    <task id="LOCAL-00153" summary="MOBDTM-65222 Update cash account icon">
+      <created>1707985446242</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1707985446243</updated>
+    </task>
+    <task id="LOCAL-00154" summary="MOBDTM-65222 Update test cases">
+      <created>1707985746799</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1707985746799</updated>
+    </task>
+    <task id="LOCAL-00155" summary="MOBDTM-64313 fix comments">
+      <created>1708321480492</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1708321480492</updated>
+    </task>
+    <task id="LOCAL-00156" summary="MOBDTM-64313 fix comments">
+      <created>1708400084778</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1708400084778</updated>
+    </task>
+    <option name="localTasksCounter" value="157" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Giger Ivo 00274795" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="Liu Juan T715214" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MOBDTM-64504 Fix comment" />
+    <MESSAGE value="MOBDTM-645319 Fix Comments" />
+    <MESSAGE value="MOBDTM-64319 Fix comments" />
+    <MESSAGE value="MOBDTM-64311 Add white background in Favourite list item" />
+    <MESSAGE value="MOBDTM-64504 Fix Comments" />
+    <MESSAGE value="MOBDTM-64319 Fix comments refactor code" />
+    <MESSAGE value="MOBDTM-64734 Change pen icon to Edit text" />
+    <MESSAGE value="MOBDTM-64319 fix comments" />
+    <MESSAGE value="MOBDTM-64315 Fix unit test and error" />
+    <MESSAGE value="MOBDTM-64313 Move help and edocs onboarding overlay" />
+    <MESSAGE value="MOBDTM-64920 Update Client name" />
+    <MESSAGE value="MOBDTM-64313" />
+    <MESSAGE value="MOBDTM-64313 Unit Test" />
+    <MESSAGE value="MOBDTM-64313 fix comment" />
+    <MESSAGE value="MOBDTM-64319 Rebasing code" />
+    <MESSAGE value="MOBDTM-64982 Edocs entrypoint in CDM campaign" />
+    <MESSAGE value="MOBDTM-64313 Rebase" />
+    <MESSAGE value="MOBDTM-65222 Update cash account icon" />
+    <MESSAGE value="MOBDTM-65222 Update test cases" />
+    <MESSAGE value="MOBDTM-64313 fix comments" />
+    <MESSAGE value="MOBDTM-65222 fix comment" />
+    <MESSAGE value="PH3-140 replace cardova callback flow" />
+    <MESSAGE value="PH3-176 fix comment" />
+    <MESSAGE value="PH3-176 fix unit test" />
+    <MESSAGE value="PH3-140 fix comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="PH3-140 fix comment" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.1/f0f93e67af3f7417bdd560d5142f6dec4fe629c3/recyclerview-1.2.1-sources.jar!/androidx/recyclerview/widget/ItemTouchHelper.java</url>
+          <line>104</line>
+          <properties field="END" class="androidx.recyclerview.widget.ItemTouchHelper" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/ubsmobile-app-android/src/main/java/com/ubs/swidKXJ/mobilebanking/payments/overview/presentation/PaymentsOverviewViewModel.kt</url>
+          <line>227</line>
+          <properties class="com.ubs.swidKXJ.mobilebanking.payments.overview.presentation.PaymentsOverviewViewModel">
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/ubsmobile-app-android/src/main/java/com/ubs/swidKXJ/mobilebanking/homescreen/home/favourites/FavouritesCarouselLoadingDelegate.kt</url>
+          <line>157</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
